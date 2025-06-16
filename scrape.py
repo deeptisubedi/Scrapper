@@ -13,6 +13,12 @@
 #git commit-m "Your message"
 #copy paste git code from github
 
+# change the code 
+#git add . 
+#git commit -m "Your message"
+#git push
+
+
 
 
 
