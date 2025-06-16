@@ -6,6 +6,16 @@
 #git config--global user.name"Deepti Subedi"
 #git config--global user.email "deeptisubedi7@gmail.com"
 
+#git init=>initialized git
+#git status=> if you want to check what are the ststus of files
+#git diff=> if you want to check what are the changes
+#git add space.space
+#git commit-m "Your message"
+#copy paste git code from github
+
+
+
+
 
 import requests 
 from bs4 import BeautifulSoup
